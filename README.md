@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Deepesh Singh — Data Analyst | Power BI Developer
 
-<!--
-**DeepeshSingh1996/DeepeshSingh1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! 
+I'm a passionate and detail-oriented Data Analyst with a strong focus on turning raw data into actionable insights. I specialize in building **interactive dashboards**, performing **data wrangling**, and uncovering business trends using **Power BI**, **SQL**, and **Excel**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Core Skills
+
+| Domain                | Tools & Technologies                              |
+|-----------------------|---------------------------------------------------|
+| **Data Visualization**| Power BI, DAX, Power Query, Excel                 |
+| **Data Engineering**  | SQL (MySQL, PostgreSQL, SQL Server), Power Query  |
+| **Programming & ML**  | Python (Pandas, NumPy, Scikit-learn), ML/AI       |
+| **ETL & Wrangling**   | Python, Power Query, SQL                          |
+| **Collaboration**     | Git, GitHub, Jupyter Notebooks                    |
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn] https://www.linkedin.com/in/deepeshosingh10/
+- 📧 Email: deepesh.o.singh10@gmail.com
+
+Thanks for visiting — I'm always open to collaboration and feedback!
